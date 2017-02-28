@@ -1,5 +1,10 @@
 # rnkit-city-list
 A component cityList selector for react-native.
+
+## Preview
+
+
+
 ## Installation
 
 ```
