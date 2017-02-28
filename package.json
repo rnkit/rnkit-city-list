@@ -1,0 +1,19 @@
+{
+  "name": "rnkit-city-list",
+  "version": "1.0.0",
+  "description": "A component cityList selector for react-native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rnkit/rnkit-city-list.git"
+  },
+  "author": "xufang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rnkit/rnkit-city-list/issues"
+  },
+  "homepage": "https://github.com/rnkit/rnkit-city-list#readme"
+}
